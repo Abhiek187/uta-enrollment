@@ -1,0 +1,37 @@
+[
+    {
+        "courseID": "1111",
+        "credits": 3,
+        "description": "Intro to PHP",
+        "term": "Fall, Spring",
+        "title": "PHP 101"
+    },
+    {
+        "courseID": "2222",
+        "credits": 4,
+        "description": "Intro to Java Programming",
+        "term": "Spring",
+        "title": "Java 1"
+    },
+    {
+        "courseID": "3333",
+        "credits": 3,
+        "description": "Advanced PHP Programming",
+        "term": "Fall",
+        "title": "Adv PHP 201"
+    },
+    {
+        "courseID": "4444",
+        "credits": 3,
+        "description": "Intro to Angular",
+        "term": "Fall, Spring",
+        "title": "Angular 1"
+    },
+    {
+        "courseID": "5555",
+        "credits": 4,
+        "description": "Advanced Java Programming",
+        "term": "Fall",
+        "title": "Java 2"
+    }
+]
