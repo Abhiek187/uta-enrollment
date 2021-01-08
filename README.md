@@ -1,6 +1,8 @@
 # uta-enrollment
 Full stack web app using Flask
 
+![Universal Tech Academy home page](application/static/images/homepage.png)
+
 ## How to Run
 1. Create a folder for the virtual environment: `python3 -m venv <folder-name>`
 2. Activate the virtual environment: `source <folder-name>/bin/activate`
